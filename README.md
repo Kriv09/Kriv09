@@ -1,5 +1,5 @@
 # About Me:
-I am currently looking for a job and developing my pet-project "Finostra"
+Currently working in Nextcode.tech
 
 
 ## Socials:
