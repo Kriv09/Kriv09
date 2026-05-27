@@ -1,5 +1,5 @@
 # About Me:
-Currently working in Nextcode.tech
+Currently working in Thedex
 
 
 ## Socials:
